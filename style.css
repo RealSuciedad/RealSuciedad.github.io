@@ -38,23 +38,6 @@ margin: auto;
   text-align: right;
 }
 
-.integrantes .btn{
-  background-color:  rgb(84, 23, 141);
-  border-color:  rgb(84, 23, 141);
-  color: white;
-}
-
-.integrantes .btn:hover{
-  background-color:white;
-  border-color:  white;
-  color: rgb(84, 23, 141);
-}
-
-.integrantes .card{
-border-color:white;
-background-color:white;
-color: black;
-}
 
 /* Jugadores */
 
@@ -116,6 +99,16 @@ color: black;
  background-position: center center;
 }
 
+/*Redes sociales*/
+
+.integrantes .card-body{
+background-color: rgb(84, 23, 141);
+}
+
+.integrantes .card-text{
+color: white;
+text-align: center;
+}
 
 /* Contacto */
 
