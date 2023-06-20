@@ -110,6 +110,13 @@ color: white;
 text-align: center;
 }
 
+.integrantes .titulo{
+  color: rgb(84, 23, 141);
+font-size: 2rem;
+text-align: center;
+font-family: 'Rubik Dirt', cursive;
+}
+
 /* Contacto */
 
 .seccion-oscura{
